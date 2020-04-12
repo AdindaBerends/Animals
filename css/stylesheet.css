@@ -1,14 +1,25 @@
 @charset "UTF-8";
 
 Body{ 
-background-color: #e0ffe0;
-color: #004000;
+background-color: #B76F2D;
+color: #090088;
 }
 
 .meadow-background {
 	background-image: url("../Images/background.jpg");
+	background-blend-mode: soft-light
 }
 
 .my-navbar {
-	background-color: #004000;
+	background-color: #B76F2D;
 }
+
+.card-body {
+	background-color: #1C27C6
+}
+
+.card-text {color: #FFFFFF }
+
+.card-title {color: #FFFFFF}
+
+
