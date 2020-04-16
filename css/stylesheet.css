@@ -2,24 +2,22 @@
 
 Body{ 
 background-color: #B76F2D;
-color: #090088;
-}
+color: #090088;}
 
 .meadow-background {
-	background-image: url("../Images/background.jpg");
-	background-blend-mode: soft-light
-}
+	background-image: url("../images/background.jpg");
+	background-blend-mode: soft-light;}
 
 .my-navbar {
-	background-color: #B76F2D;
-}
+	background-color: #B76F2D;}
 
 .card-body {
-	background-color: #1C27C6
-}
+	background-color: #1C27C6;}
 
-.card-text {color: #FFFFFF }
+.card-text {
+	color: #FFFFFF; }
 
-.card-title {color: #FFFFFF}
+.card-title {
+	color: #FFFFFF; }
 
 
